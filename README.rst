@@ -1,2 +1,2 @@
-fortune cookies file with Tyler Durden quotations from fight club book or film
-for fotune-mod linux utility. Contains ``PKGBUILD`` package file for archlinux
+Файл с цитатами Тайлера Дердена из фильма/книги "Бойцовский клуб" для
+fortune-mod. Содержит вайл ``PKGBUILD``` для archlinux
