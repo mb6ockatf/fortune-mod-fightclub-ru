@@ -1,0 +1,23 @@
+commit ecc1a24ba4bb656caea1b2e316f628ea76107de6
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Sat Aug 10 16:08:07 2024 +0300
+
+    chore(CONTRIBUTING): added
+
+commit 7d644055ed91cc702f7076a37ef4d7ac435f6fb4
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Fri Aug 9 20:47:19 2024 +0300
+
+    chore(COPYING): AGPL
+
+commit f3093560acc4b9d97e4f848e32cf67228712cbbc
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Fri Jul 26 21:43:40 2024 +0300
+
+    revert(README.rst): update file
+
+commit 1a71dd5eb4d7a8146ac4701cb75af1c6efb2b0ee
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Fri Jul 26 21:41:53 2024 +0300
+
+    feat: initial commit
